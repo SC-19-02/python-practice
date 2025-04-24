@@ -1,4 +1,4 @@
-# function to calculate the factorial of a number
+# function to calculate the factorial of a number using a loop
 def factorial():
     # get the number from the user
     num = int(input("Enter a number: "))
