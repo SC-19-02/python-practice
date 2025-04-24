@@ -1,4 +1,4 @@
-# function that takes a list of numbers as input
+# function that sums all the elements in a list
 def sum_elements(numbers):
     # total is set to 0 at the start
     total = 0
