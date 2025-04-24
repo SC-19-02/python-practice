@@ -7,7 +7,7 @@ def factorial_recursive(num):
     elif num < 0:
         print("Factorial does not exist for negative numbers")
         return
-    # recursive case: n * factorial of (n - 1)
+    # recursive case
     else:
         return num * factorial_recursive(num - 1)
 
