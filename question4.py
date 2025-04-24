@@ -1,3 +1,4 @@
+# function to reverse a string
 def reverse_string():
     # empty string to store the reversed string
     reversed_string = ""
